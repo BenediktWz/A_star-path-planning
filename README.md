@@ -15,14 +15,14 @@ Search algorithm with heuristic weight of 0 (Dijkstra`s)
 Search algorithm with heuristic weight of 1 (A*)
 ![grafik](https://user-images.githubusercontent.com/115760050/202973205-70ac0d6e-a979-429d-a10b-8b6dcebdf26c.png)
 
-##Smoothing
+## Smoothing:
 
 Alpha influences how strong the original location shall influence the calculation of the new point. Beta influences how strong the distance to the previous and the next point shall influence the calculation of the new point. High alpha leads to less smoothing, high beta leads to more smoothing.
 
-alpha =0,01; beta = 0,2
 ![grafik](https://user-images.githubusercontent.com/115760050/202973355-0f6ec025-585e-46ea-b461-5cbc22cdd20c.png)
+alpha =0,01; beta = 0,2
 
-alpha = 0,2; beta = 0,01
 ![grafik](https://user-images.githubusercontent.com/115760050/202973390-642086ea-0859-471f-8285-0268231fb71f.png)
+alpha = 0,2; beta = 0,01
 
 
