@@ -9,11 +9,13 @@ Demonstration Video Link: https://youtu.be/Pa7BX4TIEh0
 
 ## Heuristic weight:
 
-Search algorithm with heuristic weight of 0 (Dijkstra`s)
 ![grafik](https://user-images.githubusercontent.com/115760050/202973053-df97c882-6e54-49a2-9c52-9d1c21021b1d.png)
 
-Search algorithm with heuristic weight of 1 (A*)
+Search algorithm with heuristic weight of 0 (Dijkstra`s)
+
 ![grafik](https://user-images.githubusercontent.com/115760050/202973205-70ac0d6e-a979-429d-a10b-8b6dcebdf26c.png)
+
+Search algorithm with heuristic weight of 1 (A*)
 
 ## Smoothing:
 
