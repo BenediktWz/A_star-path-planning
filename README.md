@@ -3,7 +3,7 @@
 ## Description:
 In this project I solved several tasks connected to path planning in order to find the optimal path for a robot to reach a goal node from a starting node.
 
-I wrote a method to find the closest node to an input point. This is later used to find the start and goal nodes. Then, I implemented the A* search algorithm. Next, I generated the optimal path found by the A* algorithm. Then, I smoothed this path so that a robot can follow it easier. In the end I also completed the method to generate a probabilistic roadmap so that it can be used instead of a grid map.
+I wrote a function to find the closest node to an input point. This is later used to find the start and goal nodes. Then, I implemented the A* search algorithm. Next, I generated the optimal path found by the A* algorithm. Then, I smoothed this path so that a robot can follow it easier. In the end I also completed the function to generate a probabilistic roadmap so that it can be used instead of a grid map.
 
 Demonstration Video Link: https://youtu.be/Pa7BX4TIEh0
 
